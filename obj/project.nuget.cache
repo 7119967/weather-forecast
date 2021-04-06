@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OSD3nTZ3/OKmL5b51f5FPAM2NPiOYkhZpUatM8vmT+05rQfJXwrmsuQ6XYf27lxj9Od2YbBrbjprGl50w/lVLw==",
+  "dgSpecHash": "iSYvWxormPNMKx8isOD3slMROxY+lANPQKGTIzjzkkd3GrUyGyDbYCifc0o/HwA+G1kcvEQQElBhoDk8DSNj0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\rashi\\Dropbox\\Education\\.NET\\weather-forecast\\WeatherForecast.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rashi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
